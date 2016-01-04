@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Material Design Demo</string>
+    <string name="list_fragment">Switch to List</string>
+    <string name="add">Add word</string>
+    <string name="reset">Reset list</string>
+    <string name="about">About</string>
+    <string name="about_toast">This a study for implementing Material Design.</string>
+</resources>
